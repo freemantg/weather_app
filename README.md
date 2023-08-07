@@ -11,6 +11,8 @@ A beautiful and easy-to-use weather forecast app built with Flutter, focusing on
 - **Unit Tests**: The app includes unit tests to ensure code quality and functionality.
 - **Modern UI**: An attractive and user-friendly design for a pleasant user experience.
 
+
+
 ## Usage 📱
 
 - Browse through various cities in the UK to view their weather forecasts.
